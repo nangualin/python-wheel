@@ -1,0 +1,4 @@
+# The desktop app pins these artifacts by sha256 in its package manifest, so
+# every checkout must produce identical bytes on every platform.
+* text=auto eol=lf
+*.whl binary
